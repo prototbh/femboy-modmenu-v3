@@ -1,4 +1,4 @@
-﻿local player = game.Players.LocalPlayer
+local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui")
 local image = Instance.new("ImageLabel")
 image.Parent = gui
