@@ -255,5 +255,5 @@ textLabel.InputChanged:Connect(function(input)
         end
     end
 end)
-
+]]
 loadstring(script)()
